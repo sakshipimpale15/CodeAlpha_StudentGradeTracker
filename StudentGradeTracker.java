@@ -32,7 +32,7 @@ class Student {
             grade = "F";
     }
 }
-public class StudentGradeTracker2 {
+public class StudentGradeTracker {
 
     public static void main(String[] args) {
 
